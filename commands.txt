@@ -1,7 +1,7 @@
 cd c:/temp3
 git init
 git pull https://github.com/sactags/sactagsweb.git master
-get add .
+git add .
 git commit -m "message"
 git push https://github.com/sactags/sactagsweb.git master
 
